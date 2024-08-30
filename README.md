@@ -5,3 +5,6 @@
 # Домашнее задание к занятию "События и состояния".
 
 
+https://markovanton1986.github.io/events_state_2/
+
+
