@@ -1,0 +1,6 @@
+.store__btn {
+    cursor: pointer;
+    margin: 10px;
+    user-select: none;  
+    height: 30px;
+}
